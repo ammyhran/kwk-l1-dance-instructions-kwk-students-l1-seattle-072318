@@ -1,3 +1,4 @@
 def starting_stance
-  puts ""
+  puts "Plant legs far apart, bend knees slightly and keep posture loose"
+end
   
