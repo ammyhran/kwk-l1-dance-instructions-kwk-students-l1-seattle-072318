@@ -1,2 +1,3 @@
-def gangam
+def starting_stance
+  puts ""
   
