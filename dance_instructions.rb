@@ -4,4 +4,5 @@ end
   
 def base_footwork
   puts "Lift right foot"
-  puts ""
+  puts "Return right foot to the ground"
+  puts
